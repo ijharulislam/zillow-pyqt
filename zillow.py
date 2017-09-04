@@ -1,3 +1,4 @@
+
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import QCoreApplication
@@ -33,7 +34,6 @@ urls = []
 data = []
 
 from excel_writer import write_to_excel
-
 
 
 class getPostsThread(QThread):
