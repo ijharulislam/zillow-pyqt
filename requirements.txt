@@ -18,7 +18,7 @@ PyVirtualDisplay==0.2.1
 requests==2.18.4
 selenium==3.5.0
 sip==4.19.3
-urllib3==1.22
+urllib3==1.24.2
 xlrd==1.1.0
 XlsxWriter==0.9.8
 xvfbwrapper==0.2.9
