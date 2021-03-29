@@ -12,7 +12,7 @@ lxml==3.8.0
 olefile==0.44
 Pillow==4.2.1
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyQt5==5.9
 PyVirtualDisplay==0.2.1
 requests==2.18.4
